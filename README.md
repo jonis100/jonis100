@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing and computer science, and like to learn new incredible things
 - 🌱 I’m currently learning computer sience in Open University 
 - 💞️ I’m looking collaborate with meaningfull projacts 
-- 📫 How to reach me : In any way you can.. so let's try ;)
+- 📫 How to reach me : In any way you can.. so com'on try ;)
 
 <!---
 jonis100/jonis100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
