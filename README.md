@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yoni shieber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yoni shieber" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/joni shei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joni shei" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yoni-shieber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yoni shieber" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@yonishie7198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joni shei" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yoni9319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yoni9319" height="30" width="40" /></a>
 </p>
 
