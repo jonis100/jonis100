@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonis100&label=Profile%20views&color=0e75b6&style=flat" alt="jonis100" /> </p>
 
-- 🔭 I’m currently working on [DForce](https://github.com/jonis100/DForce)
 
-- 🌱 I’m currently learning **Security and cloud**
+- 🌱 I like code and security
 
 - 👯 I’m looking to collaborate on [Privasee](https://github.com/jonis100/IPCameraDetector)
 
