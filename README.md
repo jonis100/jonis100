@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonis100&label=Profile%20views&color=0e75b6&style=flat" alt="jonis100" /> </p>
 
 
-- 🌱 I like code and security
+- 🌱 I like code and security, and creations that helps people
 
-- 👯 I’m looking to collaborate on [Privasee](https://github.com/jonis100/IPCameraDetector)
+- 🚀 I’m currently looking for my next challancge
 
 - 📫 How to reach me **jonishei100@gmail.com**
 
