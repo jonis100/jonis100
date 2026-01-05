@@ -86,6 +86,9 @@
 <a href="https://opentelemetry.io/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opentelemetry/opentelemetry-original.svg" alt="opentelemetry" width="40" height="40"/>
 </a>
+<a href="https://lucene.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="lucene" width="40" height="40"/>
+</a>
 
 <!-- Tooling -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
