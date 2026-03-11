@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jonishei100@gmail.com**
 
-- 📄 Know about my experiences [my CV](https://docs.google.com/document/d/1KA_iLlPx0M8gD-9zt8H-5IEPrZpK4bJssUFhOsGjh6g/edit?usp=sharing)
+- 📄 Know about my experiences [my CV](https://docs.google.com/document/d/1Pi5zEX0cM8t1KV_qzgwy0wge0bdjMy5h)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
