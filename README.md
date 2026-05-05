@@ -6,8 +6,6 @@
 
 - 🌱 I like code and security, and creations that helps people
 
-- 🚀 I’m currently looking for my next challancge
-
 - 📫 How to reach me **jonishei100@gmail.com**
 
 - 📄 Know about my experiences [my CV](https://docs.google.com/document/d/1Pi5zEX0cM8t1KV_qzgwy0wge0bdjMy5h)
